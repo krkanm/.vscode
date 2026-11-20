@@ -1,0 +1,25 @@
+{
+    // Typography
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 1.6,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontWeight": "500",
+
+    // Formating
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4,
+
+    // Minimap
+    "editor.minimap.autohide": "mouseover",
+
+    // Files
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+
+    // Themes
+    "workbench.colorTheme": "One Dark Pro Darker"
+}
