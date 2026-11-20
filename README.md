@@ -10,7 +10,7 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 ## settings.json
 
-```jsonc
+```json
 {
     // Typography
     "editor.fontFamily": "'JetBrains Mono'",
@@ -42,7 +42,7 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 ## extensions.json
 
-```jsonc
+```json
 {
     "recommendations": [
         // Git
