@@ -1,0 +1,39 @@
+{
+    // UI
+    "material-icon-theme.languages.associations": {},
+    "material-icon-theme.files.associations": {},
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "compact",
+    "workbench.editor.showTabs": "multiple",
+    "window.commandCenter": false,
+    "chat.titleBar.signIn.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+    "workbench.browser.showInTitleBar": false,
+
+    // Typography
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 1.6,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontWeight": "500",
+
+    // Formating
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4,
+
+    // Minimap
+    "editor.minimap.autohide": "mouseover",
+
+    // Files
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+
+    // Themes
+    "workbench.colorTheme": "One Dark Pro Darker"
+}
