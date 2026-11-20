@@ -12,6 +12,20 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 ```json
 {
+    // UI
+    "material-icon-theme.languages.associations": {},
+    "material-icon-theme.files.associations": {},
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "compact",
+    "workbench.editor.showTabs": "multiple",
+    "window.commandCenter": false,
+    "chat.titleBar.signIn.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+    "workbench.browser.showInTitleBar": false,
+
     // Typography
     "editor.fontFamily": "'JetBrains Mono'",
     "editor.fontSize": 14,
